@@ -1,0 +1,6 @@
+c:\users\vasia\documents\visual studio 2013\Projects\LabM\LabM\bin\Debug\LabM.exe.config
+c:\users\vasia\documents\visual studio 2013\Projects\LabM\LabM\bin\Debug\LabM.exe
+c:\users\vasia\documents\visual studio 2013\Projects\LabM\LabM\bin\Debug\LabM.pdb
+c:\users\vasia\documents\visual studio 2013\Projects\LabM\LabM\obj\Debug\LabM.csprojResolveAssemblyReference.cache
+c:\users\vasia\documents\visual studio 2013\Projects\LabM\LabM\obj\Debug\LabM.exe
+c:\users\vasia\documents\visual studio 2013\Projects\LabM\LabM\obj\Debug\LabM.pdb
